@@ -1,0 +1,5 @@
+c:\users\chanahc\documents\visual studio 2012\Projects\DeinflectLibrary\DeinflectLibrary\bin\Debug\DeinflectLibrary.dll
+c:\users\chanahc\documents\visual studio 2012\Projects\DeinflectLibrary\DeinflectLibrary\bin\Debug\DeinflectLibrary.pdb
+c:\users\chanahc\documents\visual studio 2012\Projects\DeinflectLibrary\DeinflectLibrary\obj\Debug\DeinflectLibrary.csprojResolveAssemblyReference.cache
+c:\users\chanahc\documents\visual studio 2012\Projects\DeinflectLibrary\DeinflectLibrary\obj\Debug\DeinflectLibrary.dll
+c:\users\chanahc\documents\visual studio 2012\Projects\DeinflectLibrary\DeinflectLibrary\obj\Debug\DeinflectLibrary.pdb
